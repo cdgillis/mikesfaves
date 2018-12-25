@@ -70,3 +70,7 @@
     /* background: url('snowybackground.jpg') center center fixed; */
     background-color: black;
   }
+
+  .animated {
+    animation-duration: 2s;
+  }
