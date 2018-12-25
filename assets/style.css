@@ -1,0 +1,72 @@
+.navbar {
+    margin-bottom:  0;
+    border-radius: 0;
+    background-color: black;
+    color: blue;
+    padding: 1% 0;
+    font-size: 1.4em;
+    font-family: 'Roboto', sans-serif;
+    border: 0;
+    z-index: 1;
+  }
+  .navbar-brand {
+    float: left;
+    min-height: 55px;
+    padding: 15px 15px 5px;
+    font-family: 'Monoton', cursive;
+    font-size: 40px; 
+    color: white;
+  }
+  .navbar-inverse .navbar-nav .active a, .navbar-inverse .navbar-nav .active a:hover {
+    color:gainsboro;
+    background-color: navy;
+  } 
+  .navbar-inverse .navbar-nav li a {
+    color: royalblue;
+  }
+  .form-inline {
+    float: right;
+    margin-top: 8px;
+  }
+  #myNavbar {
+    padding-top: 5px;
+  }
+  .carousel-caption {
+    top: 50%;
+    transform: translateY(-50%);
+    text-transform: uppercase;
+  }
+  .btn {
+    font-size: 18px;
+    color:#fff;
+    padding: 6px 12px;
+    background:blue;
+    border: 2px solid #fff;
+  }
+  @media (max-width: 600px) {
+    .carousel-caption {
+      display: none;
+    }
+    #icon {
+      max-width: 50px;
+    }
+    h2 {
+      font-size: 1.7em;
+    }
+  }
+
+  #icon {
+    max-width: 200px;
+    margin: 4% auto;
+  }
+
+  .mike {
+      display: block;
+      width: 100%;
+      object-fit: fill;
+  }
+
+  body {
+    /* background: url('snowybackground.jpg') center center fixed; */
+    background-color: black;
+  }
