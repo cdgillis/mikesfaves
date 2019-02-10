@@ -1,4 +1,5 @@
-# mikesfaves
+# Mike's Fave Tingz
+
 ## Xmas present for my brother, Mike. 
 
 ### Very simple GIF reel of his favourite things:
