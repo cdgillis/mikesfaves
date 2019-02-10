@@ -1,17 +1,20 @@
-# mikesfaves
-Xmas present for my brother, Mike. 
+# Mike's Fave Tingz
 
-Very simple GIF reel of his favourite things:
+## A Christmas present for my brother.
 
-- Hot air balloons
-- Snowfall
-- Sailboats
-- The movie 'Elf'
-- Santa Clause
-- Zambonis
-- Figure skating
+### It's a very simple GIF reel of his favourite things:
 
-GIFs rotating on a carousel, with option to click through. The website looks great on most devices (it's responsive), but is optimized for his iPad. Mike also enjoys carwashes, YouTube videos, hanging out naked and watching TV. 
+* Hot air balloons
+* Snowfall
+* Sailboats
+* The movie 'Elf'
+* Santa Clause
+* Zambonis
+* Figure skating
 
-HTML, CSS, Bootstrap
+The GIFs rotate on a carousel, with option to click through. The website looks great on most devices (it's responsive), but is mainly optimized for his iPad. 
+
+Mike also enjoys carwashes, YouTube videos, laughing, hanging out naked and watching TV. Since he has non-verbal autism and appreciates repetition, I knew he would enjoy this web app. 
+
+Technologies utilized: HTML, CSS, Bootstrap
 
