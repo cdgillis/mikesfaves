@@ -16,6 +16,18 @@ The GIFs rotate on a carousel, with option to click through. The website looks g
 
 Mike also enjoys carwashes, YouTube videos, laughing, hanging out naked and watching TV. Since he has non-verbal autism and appreciates repetition, I knew he would enjoy this web app. 
 
-Technologies utilized: HTML, CSS, Bootstrap
+Technologies utilized: 
+
+* HTML
+* CSS
+* Bootstrap
+
+---
 
 **[View Website](https://cdgillis.github.io/mikesfaves/)**
+
+---
+
+Enjoy!
+
+-*cdgillis*
